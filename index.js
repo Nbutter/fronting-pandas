@@ -2,4 +2,4 @@ var server = require('./lib/server.js');
 
 server.start();
 
-console.log("how about now?");
+console.log("are automatic deploys enabled?");
